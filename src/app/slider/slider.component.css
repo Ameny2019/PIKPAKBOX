@@ -1,0 +1,53 @@
+
+ .box-right--image{
+    background-image: url("../../assets/visuel-home2-scaled-1-1920x1013-3.jpg");
+    object-fit: cover;
+    background-position: center;
+    min-height: 500px ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 0;
+    margin-top: 0; 
+ }
+
+ #P0 {font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color:#051E5B;
+
+
+ }
+ 
+
+#p2{ 
+margin :50px;
+flex-direction: row;
+text-align-last: left;
+color:#FFF;
+font-size: 30px;
+font-family: 'Montserrat', sans-serif;
+text-align-last: justify;
+
+}
+#h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    color:#FFF;
+    padding:50px;
+}
+.span{ position: sticky;
+justify-content: space-between;
+margin: 50px;
+padding: 50;
+
+}
+
+
+#ko{
+    font-size: 26px;
+    color:#FFF;
+    padding: 50;
+    margin: 50px;
+
+
+}
+
